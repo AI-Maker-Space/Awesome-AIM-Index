@@ -8,8 +8,7 @@
 
 Welcome to the collection of all of our amazing AIM events! This is a great resource on your journey to becoming an LLM Operations (LLMOps) Engineer!
 
-![ai_kadhim_setting_up_developers_environment_873c1f1c-1fdb-4cbd-997c-b0479554b8d0](https://github.com/AI-Maker-Space/LLMOps-Dev-101/assets/37101144/b0f4e041-33a9-407f-bc9d-5aabd626652a)
-
+![ai_kadhim_audience_watching_73b4f75a-9ff5-4151-9a8d-e24f47121463](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
 
 # Awesome-AIM-Index
