@@ -11,7 +11,8 @@ slides or notebook
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 05/25/23 | FourthBrain   | **Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning** | [Here](https://www.youtube.com/watch?v=SwWx0qKpERE&t=1s) | [Here](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing) | [Here](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T)
+| 05/25/23 | FourthBrain  | **Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning** | [🎥 Video](https://www.youtube.com/watch?v=SwWx0qKpERE&t=1s) | [📙 Notebook](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
+| 05/25/23 | FourthBrain  | **Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning** | [🎥 Video](https://www.youtube.com/watch?v=SwWx0qKpERE&t=1s) | [📙 Notebook](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
 
 
 
