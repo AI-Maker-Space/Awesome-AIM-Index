@@ -24,6 +24,13 @@ slides or notebook
 
 
 
+---
+Community Sessions
+
+| Date | Page | Event | Video Link | Code |  Slides                                                                                         |
+| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 05/25/23 | FourthBrain  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** | [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
+
 
 
 
