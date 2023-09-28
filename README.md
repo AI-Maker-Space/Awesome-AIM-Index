@@ -8,6 +8,23 @@ repo
 slides or notebook
 
 
+
+
+
+
+
+
+
+07/05/23
+LangChain: How to Build ChatGPT for Your Data
+https://www.youtube.com/watch?v=Azfc-TjG9Tg&t=654s
+First one: https://colab.research.google.com/drive/1HjZdfhVx-cVu3r-Xk-dGL6B3ZU0wtfAO?usp=sharing
+Second one: https://colab.research.google.com/drive/1Q-lm-apSJRYwoPvUZGiwYMezeky0yQXD?usp=sharing
+
+A Great Chainlit App Example we put together in preparation for our next event on 9/12:
+https://github.com/AI-Maker-Space/LLMOps-Dev-101#-your-first-llm-app
+
+
 09/12/23
 Beyond ChatGPT: Build Your First LLM Application
 https://www.youtube.com/watch?v=pRbbZcL0NMI
@@ -21,17 +38,6 @@ Smart RAG: Domain-specific fine-tuning for end-to-end Retrieval
 https://www.youtube.com/watch?v=0QaUqoICNBo
 https://www.canva.com/design/DAFvFEhCJtg/Mthlo-nWXAPck3iK3JaB7Q/edit
 https://colab.research.google.com/drive/1wwGLuEreZJfpxTvFeMLFbWb1GkRkXFwS?usp=sharing
-
-
-07/05/23
-LangChain: How to Build ChatGPT for Your Data
-https://www.youtube.com/watch?v=Azfc-TjG9Tg&t=654s
-First one: https://colab.research.google.com/drive/1HjZdfhVx-cVu3r-Xk-dGL6B3ZU0wtfAO?usp=sharing
-Second one: https://colab.research.google.com/drive/1Q-lm-apSJRYwoPvUZGiwYMezeky0yQXD?usp=sharing
-
-A Great Chainlit App Example we put together in preparation for our next event on 9/12:
-https://github.com/AI-Maker-Space/LLMOps-Dev-101#-your-first-llm-app
-
 
 
 
