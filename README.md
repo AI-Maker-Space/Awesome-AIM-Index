@@ -9,6 +9,17 @@ slides or notebook
 
 
 
+Fourthbrain
+
+05/25/23
+Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning
+https://www.youtube.com/watch?v=SwWx0qKpERE&t=1s
+https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T
+https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing
+
+
+
+
 04/30/23
 Chris Alexiuk
 Low-rank Adaption of Large Language Models: Explaining the Key Concepts Behind LoRA
