@@ -9,7 +9,12 @@ slides or notebook
 
 
 
+
+
 Fourthbrain
+
+
+
 
 05/25/23
 Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning
@@ -31,8 +36,9 @@ https://www.youtube.com/watch?v=dA-NhCtrrVE&t=1s
 DeepLearningAI
 
 
-
-
+11/09/22
+Branching out of the Notebook: ML Application Development with GitHub
+https://www.youtube.com/watch?v=Mk-KFP0r3oM
 
 
 
