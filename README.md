@@ -46,7 +46,7 @@ AIM Community Sessions
 
 AIM Community Projects
 
-| Date | Cohort | Event | Video Link | Code |                                                                                        |
+| Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
 | 09/07/23 | LLMOps 1  | **PageTurn** | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) |  |  |
 | 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) |  |  |
