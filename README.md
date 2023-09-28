@@ -14,9 +14,28 @@ https://github.com/AI-Maker-Space/Beyond-ChatGPT
 https://www.canva.com/design/DAFuLUvtthA/poFuqiX2Ui4ckT4SZJatsQ/edit
 
 
+
+Smart RAG: Domain-specific fine-tuning for end-to-end Retrieval
 https://www.youtube.com/watch?v=0QaUqoICNBo
 https://www.canva.com/design/DAFvFEhCJtg/Mthlo-nWXAPck3iK3JaB7Q/edit
 https://colab.research.google.com/drive/1wwGLuEreZJfpxTvFeMLFbWb1GkRkXFwS?usp=sharing
+
+
+
+LangChain: How to Build ChatGPT for Your Data
+https://www.youtube.com/watch?v=Azfc-TjG9Tg&t=654s
+First one: https://colab.research.google.com/drive/1HjZdfhVx-cVu3r-Xk-dGL6B3ZU0wtfAO?usp=sharing
+Second one: https://colab.research.google.com/drive/1Q-lm-apSJRYwoPvUZGiwYMezeky0yQXD?usp=sharing
+
+A Great Chainlit App Example we put together in preparation for our next event on 9/12:
+https://github.com/AI-Maker-Space/LLMOps-Dev-101#-your-first-llm-app
+
+
+
+
+
+
+
 
 Instruct-tuning OpenLM's OpenLLaMA on the Dolly-15k Dataset Notebooks:
 
