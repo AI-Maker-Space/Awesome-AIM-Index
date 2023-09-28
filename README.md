@@ -29,12 +29,11 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 
 | 12/15/22 | DeepLearningAI | **FastAPI for Machine Learning: Live Coding an ML Web Application** | [🎥 Video](https://www.youtube.com/watch?v=_BZGtifh_gw) | [🐙 Repo](https://github.com/FourthBrain/FastAPI-for-Machine-Learning-Live-Demo) | |
 
-| 9/28/22 | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | [🐙 Repo](https://github.com/FourthBrain/software-dev-for-mlops-101) | |
+| 09/28/22 | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | [🐙 Repo](https://github.com/FourthBrain/software-dev-for-mlops-101) | |
 
-| | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | | |
+| 03/23/23 | DeepLearningAI | **Building Machine Learning Apps with Hugging Face: LLMs to Diffusion Modeling** | [🎥 Video](https://www.youtube.com/watch?v=axkCZqngOSc) | | |
 
-| | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | | |
-
+| 02/23/23 | DeepLearningAI | **Practical Data Science on AWS: Generative AI** | [🎥 Video](https://www.youtube.com/watch?v=ChGx_wK7VaE) | | |
 
 ---
 Community Sessions
@@ -44,4 +43,13 @@ Community Sessions
 | 05/25/23 | FourthBrain  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** | [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
 
 
+Community Projects
 
+| Date | Cohort | Event | Video Link | Code |                                                                                        |
+| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 09/07/23 | LLMOps 1  | **PageTurn** | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) |  |  |
+| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) |  |  |
+| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) |  |  |
+| 09/07/23 | LLMOps 1  | **NBA Assist** | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) |  |  |
+| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) |||
+| 09/07/23 | LLMOps 1  | **Patient Hivemind** | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) |  |  |
