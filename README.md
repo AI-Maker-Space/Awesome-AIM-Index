@@ -27,6 +27,14 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 | 11/17/21 | DeepLearningAI | **Step-by-Step Natural Language Processing Workshop: From Data to Deployment** | [🎥 Video](https://www.youtube.com/watch?v=D9hY8pZe7hk) | [🐙 Repo](https://github.com/FourthBrain/step-by-step-nlp-dialogpt-chatbot) | [💻 Slides]() |
 
 
+| 12/15/22 | DeepLearningAI | **FastAPI for Machine Learning: Live Coding an ML Web Application** | [🎥 Video](https://www.youtube.com/watch?v=_BZGtifh_gw) | [🐙 Repo](https://github.com/FourthBrain/FastAPI-for-Machine-Learning-Live-Demo) | |
+
+| 9/28/22 | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | [🐙 Repo](https://github.com/FourthBrain/software-dev-for-mlops-101) | |
+
+| | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | | |
+
+| | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | | |
+
 
 ---
 Community Sessions
