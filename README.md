@@ -8,11 +8,34 @@ repo
 slides or notebook
 
 
+DeepLearningAI
 
 
 
 
 
+05/31/23
+Building with Instruction-Tuned LLMs: A Step-by-Step Guide
+https://www.youtube.com/watch?v=eTieetk2dSw
+https://docs.google.com/presentation/d/1ay-0zRnCJRYPDWJeEPIZ3DFE1lyEf_X2/edit#slide=id.p1
+https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing
+
+
+
+AI Makerspace
+
+
+
+08/03/23
+LlamaIndex: How to use LLMs to Interface with Multiple Data Sources
+https://www.youtube.com/watch?v=3J83aygkbX0
+
+
+08/31/23
+RAG with Llama 2 and LangChain: Building with Open-Source LLM Ops
+https://www.youtube.com/watch?v=VpbMUSPRJmY
+https://colab.research.google.com/drive/172uMprWwUfEecXQWBrsgDAlkpT_EK39z?usp=sharing
+https://www.canva.com/design/DAFtHKX_gvI/e6JcOH1FeYSl8RdBePwq_g/edit?utm_content=DAFtHKX_gvI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 
 07/05/23
