@@ -8,7 +8,19 @@ repo
 slides or notebook
 
 
+
+04/30/23
+Chris Alexiuk
+Low-rank Adaption of Large Language Models: Explaining the Key Concepts Behind LoRA
+https://www.youtube.com/watch?v=dA-NhCtrrVE&t=1s
+
+
+
+
 DeepLearningAI
+
+
+
 
 
 
