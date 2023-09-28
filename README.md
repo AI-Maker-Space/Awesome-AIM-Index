@@ -1,3 +1,17 @@
+<p align = "center" draggable=”false” ><img src="https://github.com/AI-Maker-Space/LLM-Dev-101/assets/37101144/d1343317-fa2f-41e1-8af1-1dbb18399719" 
+     width="200px"
+     height="auto"/>
+</p>
+
+
+## <h1 align="center" id="heading">:wave: Welcome to Our Awesome AIM Index!!</h1>
+
+Welcome to the collection of all of our amazing AIM events! This is a great resource on your journey to becoming an LLM Operations (LLMOps) Engineer!
+
+![ai_kadhim_setting_up_developers_environment_873c1f1c-1fdb-4cbd-997c-b0479554b8d0](https://github.com/AI-Maker-Space/LLMOps-Dev-101/assets/37101144/b0f4e041-33a9-407f-bc9d-5aabd626652a)
+
+
+
 # Awesome-AIM-Index
 Here are a collection of all of our amazing AIM events!
 
@@ -21,6 +35,7 @@ slides or notebook
 | 09/12/23 | AI Makerspace  | **Beyond ChatGPT: Build Your First LLM Application** | [🎥 Video](https://www.youtube.com/watch?v=pRbbZcL0NMI) | [🐙 Repo](https://github.com/AI-Maker-Space/Beyond-ChatGPT) | [💻 Slides](https://www.canva.com/design/DAFuLUvtthA/poFuqiX2Ui4ckT4SZJatsQ) |
 | 09/21/23 | AI Makerspace  | **Smart RAG: Domain-specific fine-tuning for end-to-end Retrieval** | [🎥 Video](https://www.youtube.com/watch?v=0QaUqoICNBo) | [📙 Notebook](https://colab.research.google.com/drive/1wwGLuEreZJfpxTvFeMLFbWb1GkRkXFwS?usp=sharing) | [💻 Slides](https://www.canva.com/design/DAFvFEhCJtg/Mthlo-nWXAPck3iK3JaB7Q/) |
 | 10/10/23 | AI Makerspace  | **High-performance RAG with LlamaIndex** | [🎥 Video](https://www.youtube.com/watch?v=wBhY-7B2jdY) | [📙 Notebook]() | [💻 Slides]() |
+| 11/17/21 | DeepLearningAI | **Step-by-Step Natural Language Processing Workshop: From Data to Deployment** | [🎥 Video](https://www.youtube.com/watch?v=D9hY8pZe7hk) | [🐙 Repo](https://github.com/FourthBrain/step-by-step-nlp-dialogpt-chatbot) | [💻 Slides]() |
 
 
 
