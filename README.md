@@ -11,6 +11,7 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 ![ai_kadhim_audience_watching_73b4f75a-9ff5-4151-9a8d-e24f47121463](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
 
+## AIM Community Events
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
@@ -32,15 +33,15 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 
 
 ---
-AIM Community Sessions
+## AIM Community Sessions
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 05/25/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** <br />  ![](https://img.youtube.com/vi/Bv_A3PaIGLw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
+| 05/25/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** <br />  ![](https://img.youtube.com/vi/Bv_A3PaIGLw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) <br /> [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) <br /> [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
 
 ---
 
-AIM Community Projects
+## AIM Community Projects
 
 | Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
