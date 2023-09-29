@@ -11,7 +11,7 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 ![ai_kadhim_audience_watching_73b4f75a-9ff5-4151-9a8d-e24f47121463](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
 
-Contents
+Content
 ========
 
  * [AIM Community Events](#aim-community-events)
