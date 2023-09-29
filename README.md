@@ -43,11 +43,11 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 
 ## AIM Community Projects
 
-| Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        |
-| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 09/07/23 | LLMOps 1  | **PageTurn** <br />  ![](https://img.youtube.com/vi/Ok7zrO2ddwA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) |  |  |
-| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** <br />  ![](https://img.youtube.com/vi/jGnCns7MGbA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) |  |  |
-| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** <br />  ![](https://img.youtube.com/vi/DVVpypmV-IE/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) |  |  |
-| 09/07/23 | LLMOps 1  | **NBA Assist** <br />  ![](https://img.youtube.com/vi/fN1Vg7kVw5M/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) |  |  |
-| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** <br />  ![](https://img.youtube.com/vi/T9WZpHe848A/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) |||
-| 09/07/23 | LLMOps 1  | **Patient Hivemind** <br />  ![](https://img.youtube.com/vi/0ipOwDKSZ_Y/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) |  |  |
+| Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        
+| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- 
+| 09/07/23 | LLMOps 1  | **PageTurn** <br />  ![](https://img.youtube.com/vi/Ok7zrO2ddwA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) | Jason Caro |  
+| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** <br />  ![](https://img.youtube.com/vi/jGnCns7MGbA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) | Kumar Mantripragada |  
+| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** <br />  ![](https://img.youtube.com/vi/DVVpypmV-IE/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) | Bhabani Nayak  |  
+| 09/07/23 | LLMOps 1  | **NBA Assist** <br />  ![](https://img.youtube.com/vi/fN1Vg7kVw5M/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) | Christos Magganas <br /> Pano Evangeliou  |  
+| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** <br />  ![](https://img.youtube.com/vi/T9WZpHe848A/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) | Harpreet Sahota <br /> Todd Deshane |
+| 09/07/23 | LLMOps 1  | **Patient Hivemind** <br />  ![](https://img.youtube.com/vi/0ipOwDKSZ_Y/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) | Yi Lin | 
