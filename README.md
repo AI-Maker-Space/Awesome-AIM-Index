@@ -36,7 +36,7 @@ AIM Community Sessions
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 05/25/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** | [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
+| 05/25/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** <br />  ![](https://img.youtube.com/vi/Bv_A3PaIGLw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
 
 ---
 
@@ -44,9 +44,9 @@ AIM Community Projects
 
 | Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 09/07/23 | LLMOps 1  | **PageTurn** | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) |  |  |
-| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) |  |  |
-| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) |  |  |
-| 09/07/23 | LLMOps 1  | **NBA Assist** | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) |  |  |
-| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) |||
-| 09/07/23 | LLMOps 1  | **Patient Hivemind** | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) |  |  |
+| 09/07/23 | LLMOps 1  | **PageTurn** <br />  ![](https://img.youtube.com/vi/Ok7zrO2ddwA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) |  |  |
+| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** <br />  ![](https://img.youtube.com/vi/jGnCns7MGbA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) |  |  |
+| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** <br />  ![](https://img.youtube.com/vi/DVVpypmV-IE/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) |  |  |
+| 09/07/23 | LLMOps 1  | **NBA Assist** <br />  ![](https://img.youtube.com/vi/fN1Vg7kVw5M/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) |  |  |
+| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** <br />  ![](https://img.youtube.com/vi/T9WZpHe848A/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) |||
+| 09/07/23 | LLMOps 1  | **Patient Hivemind** <br />  ![](https://img.youtube.com/vi/0ipOwDKSZ_Y/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) |  |  |
