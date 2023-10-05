@@ -14,7 +14,7 @@ Welcome to the collection of all of our amazing AIM events! This is a great reso
 Content
 ========
 
- * [AIM Community Events](#aim-community-events)
+ * [AIM Events](#aim-community-events)
  * [AIM Community Sessions](#aim-community-sessions)
  * [AIM Community Projects](#aim-community-projects)
 
@@ -29,11 +29,6 @@ Content
 | 08/03/23 | AI Makerspace  | **LlamaIndex: How to use LLMs to Interface with Multiple Data Sources** <br /> ![](https://img.youtube.com/vi/3J83aygkbX0/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=3J83aygkbX0) | [📙 Notebook]() | [💻 Slides]() |
 | 07/05/23 | AI Makerspace  | **LangChain: How to Build ChatGPT for Your Data** <br />  ![](https://img.youtube.com/vi/Azfc-TjG9Tg/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Azfc-TjG9Tg) | [📙 Notebook1](https://colab.research.google.com/drive/1HjZdfhVx-cVu3r-Xk-dGL6B3ZU0wtfAO?usp=sharing) <br />  [📙 Notebook2](https://colab.research.google.com/drive/1Q-lm-apSJRYwoPvUZGiwYMezeky0yQXD?usp=sharing) | [💻 Slides]() |
 | 05/31/23 | DeepLearningAI  | **Building with Instruction-Tuned LLMs: A Step-by-Step Guide** <br />  ![](https://img.youtube.com/vi/eTieetk2dSw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=eTieetk2dSw) | [📙 Notebook](https://colab.research.google.com/drive/1SRclU2pcgzCkVXpmhKppVbGW4UcCs5xT?usp=sharing) | [💻 Slides](https://docs.google.com/presentation/d/1ay-0zRnCJRYPDWJeEPIZ3DFE1lyEf_X2/) |
-| 05/25/23 | FourthBrain  | **Community Series: Generative AI and Large Language Models: Prompt Engineering vs. Fine-Tuning** <br />  ![](https://img.youtube.com/vi/SwWx0qKpERE/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=SwWx0qKpERE&t=1s) | [📙 Notebook](https://colab.research.google.com/drive/1oE_gsYKST8-LiTgV1ADeXT8l3ktS9kJq?usp=sharing) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
-| 04/30/23 | Chris Alexiuk  | **Low-rank Adaption of Large Language Models: Explaining the Key Concepts Behind LoRA** <br />  ![](https://img.youtube.com/vi/dA-NhCtrrVE/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=dA-NhCtrrVE&t=1s) | |  |
-| 03/23/23 | DeepLearningAI | **Building Machine Learning Apps with Hugging Face: LLMs to Diffusion Modeling** <br />  ![](https://img.youtube.com/vi/axkCZqngOSc/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=axkCZqngOSc) | | |
-| 02/23/23 | DeepLearningAI | **Practical Data Science on AWS: Generative AI** <br />  ![](https://img.youtube.com/vi/ChGx_wK7VaE/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=ChGx_wK7VaE) | | |
-| 12/15/22 | DeepLearningAI | **FastAPI for Machine Learning: Live Coding an ML Web Application** <br />  ![](https://img.youtube.com/vi/_BZGtifh_gw/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=_BZGtifh_gw) | [🐙 Repo](https://github.com/FourthBrain/FastAPI-for-Machine-Learning-Live-Demo) | |
 | 11/09/22 | DeepLearningAI  | **Branching out of the Notebook: ML Application Development with GitHub** <br />  ![](https://img.youtube.com/vi/Mk-KFP0r3oM/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Mk-KFP0r3oM) | [🐙 Repo](https://github.com/FourthBrain/Branching-out-of-the-Notebook)|  |
 | 09/28/22 | DeepLearningAI | **Beyond Jupyter Notebooks: MLOps Environment Setup & First Deployment** <br />  ![](https://img.youtube.com/vi/4pkzY95Otm4/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=4pkzY95Otm4) | [🐙 Repo](https://github.com/FourthBrain/software-dev-for-mlops-101) | |
 | 11/17/21 | DeepLearningAI | **Step-by-Step Natural Language Processing Workshop: From Data to Deployment** <br />  ![](https://img.youtube.com/vi/D9hY8pZe7hk/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=D9hY8pZe7hk) | [🐙 Repo](https://github.com/FourthBrain/step-by-step-nlp-dialogpt-chatbot) | [💻 Slides]() |
