@@ -6,7 +6,7 @@
 
 ## <h1 align="center" id="heading">:wave: Welcome to Our Awesome AIM Index!!</h1>
 
-Welcome to the collection of all of our amazing AIM events! This is a great resource on your journey to becoming an LLM Operations (LLMOps) Engineer!
+Access all of the concepts and code you need to build, ship, and share with LLMs on your way to becoming an AI Engineer!
 
 ![ai_kadhim_audience_watching_73b4f75a-9ff5-4151-9a8d-e24f47121463](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
@@ -15,13 +15,14 @@ Content
 ========
 
  * [AIM Events](#aim-community-events)
- * [AIM Community Sessions](#aim-community-sessions)
- * [AIM Community Projects](#aim-community-projects)
+ * [AIM Community Build Sessions](#aim-community-build-sessions)
 
 ## AIM Community Events
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 11/08/23 | AI Makerspace  | **Open-Source RAG with Gradient** <br /> ![](https://img.youtube.com/vi/DrxV45zC33A/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/DrxV45zC33A?si=mWQJsAKd0FnChXv1) | [📙 Notebook](https://colab.research.google.com/drive/1WCDiQLRSG4l_BMEzaMGpcdqvj_bPmAS2?usp=sharing#scrollTo=LQy1Xv7Mr7EN) | [💻 Slides](https://www.canva.com/design/DAFzljOIMI4/477JhBmSBeQwZf6-ib6ktg/edit?utm_content=DAFzljOIMI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 11/01/23 | AI Makerspace  | **LLM Engineering: The Foundations** <br /> ![](https://img.youtube.com/vi/U6D6a6NAJ2M/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/U6D6a6NAJ2M?si=vbgPj8CC3erU2KL6) | [📙 Notebook](https://colab.research.google.com/drive/1NwwPKYlyOIxeRI1BBUMZ-uFIApyZxARy?usp=sharing) | [💻 Slides](https://www.canva.com/design/DAFy31ZLJsA/h36gP_adzG-_H0_pe_npaw/edit?utm_content=DAFy31ZLJsA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 10/10/23 | AI Makerspace  | **High-performance RAG with LlamaIndex** <br /> ![](https://img.youtube.com/vi/wBhY-7B2jdY/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=wBhY-7B2jdY) | [📙 Notebook](https://colab.research.google.com/drive/1TDiWZtb6gsM9wVXCLQrR-7OEPaQ2n-JA?usp=sharing) | [💻 Slides](https://www.canva.com/design/DAFw0D8y038/5Yh9MA2XXd2Lfr2thcsuLA/edit?utm_content=DAFw0D8y038&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
 | 09/21/23 | AI Makerspace  | **Smart RAG: Domain-specific fine-tuning for end-to-end Retrieval** <br /> ![](https://img.youtube.com/vi/0QaUqoICNBo/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=0QaUqoICNBo) | [📙 Notebook](https://colab.research.google.com/drive/1wwGLuEreZJfpxTvFeMLFbWb1GkRkXFwS?usp=sharing) | [💻 Slides](https://www.canva.com/design/DAFvFEhCJtg/Mthlo-nWXAPck3iK3JaB7Q/) |
 | 09/12/23 | AI Makerspace  | **Beyond ChatGPT: Build Your First LLM Application** <br />  ![](https://img.youtube.com/vi/pRbbZcL0NMI/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=pRbbZcL0NMI) | [🐙 Repo](https://github.com/AI-Maker-Space/Beyond-ChatGPT) | [💻 Slides](https://www.canva.com/design/DAFuLUvtthA/poFuqiX2Ui4ckT4SZJatsQ) |
@@ -35,21 +36,10 @@ Content
 
 
 ---
-## AIM Community Sessions
+## AIM Community Build Sessions
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         |
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 09/13/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** <br />  ![](https://img.youtube.com/vi/Bv_A3PaIGLw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) <br /> [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) <br /> [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://docs.google.com/presentation/d/1awEkm7elAy7WlcVczetXdAne3Ii_m95T) |
-
----
-
-## AIM Community Projects
-
-| Date | Cohort | Event | Video Link | Speaker(s) |                                                                                        
-| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- 
-| 09/07/23 | LLMOps 1  | **PageTurn** <br />  ![](https://img.youtube.com/vi/Ok7zrO2ddwA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=Ok7zrO2ddwA) | Jason Caro |  
-| 09/07/23 | LLMOps 1  | **Fed AI - Retirement Services Virtual Assistant** <br />  ![](https://img.youtube.com/vi/jGnCns7MGbA/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=jGnCns7MGbA) | Kumar Mantripragada |  
-| 09/07/23 | LLMOps 1  | **Ecommerce Shopping Agent** <br />  ![](https://img.youtube.com/vi/DVVpypmV-IE/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=DVVpypmV-IE) | Bhabani Nayak  |  
-| 09/07/23 | LLMOps 1  | **NBA Assist** <br />  ![](https://img.youtube.com/vi/fN1Vg7kVw5M/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=fN1Vg7kVw5M) | Christos Magganas <br /> Pano Evangeliou  |  
-| 09/07/23 | LLMOps 1  | **Chat with the Artists of Data Science: Your Virtual Mentor in Data Science** <br />  ![](https://img.youtube.com/vi/T9WZpHe848A/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=T9WZpHe848A) | Harpreet Sahota <br /> Todd Deshane |
-| 09/07/23 | LLMOps 1  | **Patient Hivemind** <br />  ![](https://img.youtube.com/vi/0ipOwDKSZ_Y/mqdefault.jpg) | [🎥 Video](https://www.youtube.com/watch?v=0ipOwDKSZ_Y) | Yi Lin | 
+| 11/08/23 | AI Makerspace  | **Community Build Session on Mistral 7B** <br />  ![](https://img.youtube.com/vi/Id4COsCrIms/mqdefault.jpg)| [🎥 Video](https://youtu.be/Id4COsCrIms) | [📙 Notebook](https://colab.research.google.com/drive/1JtrVh--bcPR-CR8QNOyXd3Z5eZt0WgOw?usp=sharing) | [💻 Slides](https://www.canva.com/design/DAFzn7Uynrc/IMrrg6GSL_2NWpAnWXfobQ/edit?utm_content=DAFzn7Uynrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 10/04/23 | AI Makerspace  | **Community Build Session on RLAIF - Reinforcement Learning with AI Feedback** <br />  ![](https://img.youtube.com/vi/frHXgb_0o3k/mqdefault.jpg)| [🎥 Video](https://youtu.be/frHXgb_0o3k?si=3FeOXrNgXwUXgkXC) | [🐙 Repo](https://github.com/AI-Maker-Space/RLXF-Community-Sessions/tree/main/rlaif) | [💻 Slides](https://www.canva.com/design/DAFv8F-F9o0/Fdisodgh13M1s4k7qXBRbQ/edit?utm_content=DAFv8F-F9o0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 09/13/23 | AI Makerspace  | **Community Build Session on RLHF - Reinforcement Learning with Human Feedback** <br />  ![](https://img.youtube.com/vi/Bv_A3PaIGLw/mqdefault.jpg)| [🎥 Video](https://www.youtube.com/watch?v=Bv_A3PaIGLw) | [📙 Notebook 1](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_reward_model.ipynb) <br /> [📙 Notebook 2 ](https://github.com/AI-Maker-Space/RLHF-Community-Session/blob/main/app_ppo.ipynb) <br /> [🐙 Repo](https://github.com/AI-Maker-Space/RLHF-Community-Session) | [💻 Slides](https://www.canva.com/design/DAFt45GUO8w/9mgzJR-LndkIkTJ767hcVw/edit?utm_content=DAFt45GUO8w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
