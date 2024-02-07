@@ -6,7 +6,11 @@
 
 ## <h1 align="center" id="heading">:wave: Welcome to Our Awesome AIM Index!!</h1>
 
-Access all of the concepts and code from our YouTube Live events that will help you build, ship, and share with Large Language Models (LLMs) on your way to becoming an AI Engineer! <br /> <br /> You can find even more content from our community build sessions, hackathons, podcasts, and panel discussions in our playlists directly on [YouTube](https://www.youtube.com/@AI-Makerspace/featured)!
+Access all of the concepts and code from our [YouTube Live](https://www.youtube.com/@AI-Makerspace/featured) events that will help you build, ship, and share with Large Language Models (LLMs) on your way to becoming an AI Engineer!
+
+Find additional content from community build sessions, hackathons, podcasts, and panel discussions directly on our [YouTube playlists](https://www.youtube.com/@AI-Makerspace/playlists)!
+
+Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace)
 
 ![](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
