@@ -14,7 +14,7 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 ![](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
-## AIM Public Events
+## AIM Events
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
