@@ -10,7 +10,7 @@ Access all of the concepts and code from our [YouTube Live](https://www.youtube.
 
 Find additional content from community build sessions, hackathons, podcasts, and panel discussions directly on our [YouTube playlists](https://www.youtube.com/@AI-Makerspace/playlists)!
 
-Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace)
+Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 ![](https://github.com/AI-Maker-Space/Awesome-AIM-Index/assets/37101144/dbfe95e8-960d-4876-8cdd-8ce6ca8448d7)
 
