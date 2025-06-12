@@ -16,9 +16,13 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 ## AIM Events
 
+
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 5/14/25 | AI Makerspace | **AnyMCP: Deploying MCP Servers** <br /> ![](https://img.youtube.com/vi/qNTkaMpbfX8/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/qNTkaMpbfX8?feature=shared) | 📙 No code for this event | [💻 Slides](https://tinyurl.com/anymcp)
+| 6/11/25 | AI Makerspace | **Codex: The Autonomous SWE** <br /> ![](https://img.youtube.com/vi/AxRJ4cnQrN4/mqdefault.jpg)  | [🎥 Video](https://youtu.be/AxRJ4cnQrN4) | [🐙 GitHub](https://tinyurl.com/2z4pa7j6) | [💻 Slides](https://tinyurl.com/5ytrfsm5)
+| 6/4/25 | AI Makerspace | **Agent2Agent Protocol** <br /> ![](https://img.youtube.com/vi/HUSuUs16tcQ/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/HUSuUs16tcQ) | [🐙 GitHub](https://github.com/AI-Maker-Space/AIM-A2A-Event) | [💻 Slides](https://tinyurl.com/mrxsxems)
+| 5/28/25 | AI Makerspace | **Google ADK: Agent Development Kit** <br /> ![](https://img.youtube.com/vi/xj5VRmkwlYk/mqdefault.jpg)  | [🎥 Video](https://tinyurl.com/4jcrsmwv) | [🐙 GitHub](https://tinyurl.com/2wm9fxem) | [💻 Slides](https://tinyurl.com/anymcp)
+| 5/21/25 | AI Makerspace | **AnyMCP: Deploying MCP Servers** <br /> ![](https://img.youtube.com/vi/qNTkaMpbfX8/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/qNTkaMpbfX8?feature=shared) | 📙 No code for this event | [💻 Slides](https://tinyurl.com/anymcp)
 | 5/14/25 | AI Makerspace | **RAG: The 2025 Best-Practice Stack Part II** <br /> ![](https://img.youtube.com/vi/g8OViy0xOoI/mqdefault.jpg)  | [🎥 Video](https://lnkd.in/gmGNYNGC) | [🐙 GitHub](https://lnkd.in/g7BAnXgU) | [💻 Slides](https://bit.ly/4mcuvRL)
 | 5/7/25 | AI Makerspace  | **The 2025 AI Engineer Challenge** <br /> ![](https://img.youtube.com/vi/llpPWAFUUfU/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=llpPWAFUUfU&ab_channel=AIMakerspace) | [🐙 GitHub](https://github.com/AI-Maker-Space/The-AI-Engineer-Challenge?tab=readme-ov-file) | [💻 Slides](https://www.canva.com/design/DAGmx6zQtY8/0wDniFdqyw0cL2L9SE2bLw/view?utm_content=DAGmx6zQtY8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heb541f0c82)
 4/30/25 | AI Makerspace  | **What is an Agent?** <br /> ![](https://img.youtube.com/vi/PsjMHb4nl24/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=PsjMHb4nl24&ab_channel=AIMakerspace) | 📙 No code for this event | [💻 Slides](https://www.canva.com/design/DAGmHl0QILE/U9iffMSWxmv17z178NGcIw/view?utm_content=DAGmHl0QILE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h20c4f1ac65) |
