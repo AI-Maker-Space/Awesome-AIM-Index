@@ -18,6 +18,7 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 7/9/25 | AI Makerspace | **Deep Research: The API** <br /> ![](https://img.youtube.com/vi/jsUUHNSLFzE/mqdefault.jpg)  | [🎥 Video](https://youtu.be/jsUUHNSLFzE) | [🐙 GitHub](https://github.com/AI-Maker-Space/CircleOfMages) | [💻 Slides](https://tinyurl.com/5ytrfsm5)
 | 7/2/25 | AI Makerspace | **Large Reasoning Models: The Illusion of Thinking** <br /> ![](https://img.youtube.com/vi/3ea2IeKJAKo/mqdefault.jpg)  | [🎥 Video](https://youtu.be/3ea2IeKJAKo) | No Code | [💻 Slides](https://tinyurl.com/2dhp6nvx)
 | 6/26/25 | Laura The Legend Series | **🦙 LlamaIndex Agent Memory: From Short-Term Storage to Intelligent Retention** <br /> ![](https://img.youtube.com/vi/XwUD9uXL0eg/mqdefault.jpg)  | [🎥 Video](https://youtu.be/XwUD9uXL0eg) | No Code | [💻 Slides](https://tinyurl.com/3rjcymzv)
 | 6/25/25 | AI Makerspace | **🦙 Llama Stack: Zero to Production Hero** <br /> ![](https://img.youtube.com/vi/B1CNuTzET0k/mqdefault.jpg)  | [🎥 Video](https://youtu.be/B1CNuTzET0k) | [🐙 GitHub](https://colab.research.google.com/drive/1K4f57SyISU-QNs_9qKdOe0-MtnM-xc2Q?usp=sharing) | [💻 Slides](https://tinyurl.com/5ytrfsm5)
