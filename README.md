@@ -16,9 +16,12 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 ## AIM Events
 
-
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 7/2/25 | AI Makerspace | **Large Reasoning Models: The Illusion of Thinking** <br /> ![](https://img.youtube.com/vi/3ea2IeKJAKo/mqdefault.jpg)  | [🎥 Video](https://youtu.be/3ea2IeKJAKo) | No Code | [💻 Slides](https://tinyurl.com/2dhp6nvx)
+| 6/26/25 | Laura The Legend Series | **🦙 LlamaIndex Agent Memory: From Short-Term Storage to Intelligent Retention** <br /> ![](https://img.youtube.com/vi/XwUD9uXL0eg/mqdefault.jpg)  | [🎥 Video](https://youtu.be/XwUD9uXL0eg) | No Code | [💻 Slides](https://tinyurl.com/3rjcymzv)
+| 6/25/25 | AI Makerspace | **🦙 Llama Stack: Zero to Production Hero** <br /> ![](https://img.youtube.com/vi/B1CNuTzET0k/mqdefault.jpg)  | [🎥 Video](https://youtu.be/B1CNuTzET0k) | [🐙 GitHub](https://colab.research.google.com/drive/1K4f57SyISU-QNs_9qKdOe0-MtnM-xc2Q?usp=sharing) | [💻 Slides](https://tinyurl.com/5ytrfsm5)
+| 6/18/25 | AI Makerspace | **Live From the TMLS** <br /> ![](https://img.youtube.com/vi/M75yBrQYNYY/mqdefault.jpg)  | [🎥 Video](https://youtu.be/M75yBrQYNYY) | No Code | No Slides
 | 6/11/25 | AI Makerspace | **Codex: The Autonomous SWE** <br /> ![](https://img.youtube.com/vi/AxRJ4cnQrN4/mqdefault.jpg)  | [🎥 Video](https://youtu.be/AxRJ4cnQrN4) | [🐙 GitHub](https://tinyurl.com/2z4pa7j6) | [💻 Slides](https://tinyurl.com/5ytrfsm5)
 | 6/4/25 | AI Makerspace | **Agent2Agent Protocol** <br /> ![](https://img.youtube.com/vi/HUSuUs16tcQ/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/live/HUSuUs16tcQ) | [🐙 GitHub](https://github.com/AI-Maker-Space/AIM-A2A-Event) | [💻 Slides](https://tinyurl.com/mrxsxems)
 | 5/28/25 | AI Makerspace | **Google ADK: Agent Development Kit** <br /> ![](https://img.youtube.com/vi/xj5VRmkwlYk/mqdefault.jpg)  | [🎥 Video](https://tinyurl.com/4jcrsmwv) | [🐙 GitHub](https://tinyurl.com/2wm9fxem) | [💻 Slides](https://tinyurl.com/anymcp)
