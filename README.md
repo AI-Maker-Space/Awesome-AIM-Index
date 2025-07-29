@@ -18,7 +18,7 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
-| 7/23/25 | AI Makerspace | **Guardrails AI** <br /> ![](https://img.youtube.com/vi/gwfzhSu1F38/mqdefault.jpg)  | [🎥 Video](https://youtu.be/gwfzhSu1F38) | No Code | [💻 Slides](https://tinyurl.com/guardrailsai)
+| 7/23/25 | AI Makerspace | **Guardrails AI** <br /> ![](https://img.youtube.com/vi/gwfzhSu1F38/mqdefault.jpg)  | [🎥 Video](https://youtu.be/gwfzhSu1F38) | [🐙 GitHub](https://github.com/AI-Maker-Space/AI-Makerspace-Guardrails-Event) | [💻 Slides](https://tinyurl.com/guardrailsai)
 | 7/16/25 | AI Makerspace | **Context Engineering** <br /> ![](https://img.youtube.com/vi/lfEbzQFyS9U/mqdefault.jpg)  | [🎥 Video](https://youtu.be/lfEbzQFyS9U) | [🐙 GitHub](https://github.com/AI-Maker-Space/ContextEngineering-AIM) | [💻 Slides](https://tinyurl.com/5n792pr2)
 | 7/9/25 | AI Makerspace | **Deep Research: The API** <br /> ![](https://img.youtube.com/vi/jsUUHNSLFzE/mqdefault.jpg)  | [🎥 Video](https://youtu.be/jsUUHNSLFzE) | [🐙 GitHub](https://github.com/AI-Maker-Space/CircleOfMages) | [💻 Slides](https://tinyurl.com/c5rccse3)
 | 7/2/25 | AI Makerspace | **Large Reasoning Models: The Illusion of Thinking** <br /> ![](https://img.youtube.com/vi/3ea2IeKJAKo/mqdefault.jpg)  | [🎥 Video](https://youtu.be/3ea2IeKJAKo) | No Code | [💻 Slides](https://tinyurl.com/2dhp6nvx)
