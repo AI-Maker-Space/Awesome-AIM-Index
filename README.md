@@ -18,6 +18,7 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| 7/30/25 | AI Makerspace | **Guardrails AI** <br /> ![](https://img.youtube.com/vi/QaeY6MMqN5g/mqdefault.jpg)  | [🎥 Video](https://youtu.be/QaeY6MMqN5g) | [🐙 GitHub](https://colab.research.google.com/drive/1rnxxK3zY4dEX4T0SSUgIC1OgdOKfuqVB#scrollTo=GJODTSnOB_Uc) | [💻 Slides]()
 | 7/23/25 | AI Makerspace | **Guardrails AI** <br /> ![](https://img.youtube.com/vi/gwfzhSu1F38/mqdefault.jpg)  | [🎥 Video](https://youtu.be/gwfzhSu1F38) | [🐙 GitHub](https://github.com/AI-Maker-Space/AI-Makerspace-Guardrails-Event) | [💻 Slides](https://tinyurl.com/guardrailsai)
 | 7/16/25 | AI Makerspace | **Context Engineering** <br /> ![](https://img.youtube.com/vi/lfEbzQFyS9U/mqdefault.jpg)  | [🎥 Video](https://youtu.be/lfEbzQFyS9U) | [🐙 GitHub](https://github.com/AI-Maker-Space/ContextEngineering-AIM) | [💻 Slides](https://tinyurl.com/5n792pr2)
 | 7/9/25 | AI Makerspace | **Deep Research: The API** <br /> ![](https://img.youtube.com/vi/jsUUHNSLFzE/mqdefault.jpg)  | [🎥 Video](https://youtu.be/jsUUHNSLFzE) | [🐙 GitHub](https://github.com/AI-Maker-Space/CircleOfMages) | [💻 Slides](https://tinyurl.com/c5rccse3)
