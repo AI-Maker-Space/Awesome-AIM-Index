@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=IUA2Y5Yct-4&pp=ygUNYWkgbWFrZXJzcGFjZQ%3D%3D
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+10/15/25 | AI Makerspace | **Agent Builder** <br /> ![](https://img.youtube.com/vi/PRoXa4-RNaE/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/PRoXa4-RNaE) | No Code| [💻 Slides](https://tinyurl.com/mrfudbzy)
 10/8/25 | AI Makerspace | **Live at MLOps World** <br /> ![](https://img.youtube.com/vi/IUA2Y5Yct-4/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/IUA2Y5Yct-4) | No code | No slides
 10/1/25 | AI Makerspace | **Claude Agent SDK** <br /> ![](https://img.youtube.com/vi/gM5Cpzhm8hY/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/gM5Cpzhm8hY) | [🐙 GitHub](https://github.com/AI-Maker-Space/ClaudeAgentSDK-AIMEvent) | [💻 Slides](https://tinyurl.com/5c42e92e)
 9/24/25 | AI Makerspace | **How to Build ChatGPT - Part 4: Part 4: Vibe-Coding and Deployment** <br /> ![](https://img.youtube.com/vi/t13Y5Igh66U/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/t13Y5Igh66U) | ​[🐙 GitHub](https://github.com/AI-Maker-Space/How-to-Build-ChatGPT/tree/feat/chatgpt-frontend) | [💻 Slides](https://tinyurl.com/5n9bp73u)
