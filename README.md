@@ -17,6 +17,7 @@ https://www.youtube.com/watch?v=IUA2Y5Yct-4&pp=ygUNYWkgbWFrZXJzcGFjZQ%3D%3D
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+10/22/25 | AI Makerspace | **Claude Skills** <br /> ![](https://img.youtube.com/vi/9XaprFRNTlc/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/9XaprFRNTlc) |  [🐙 Sample skills](: https://github.com/anthropics/skills)| [💻 Slides]([https://tinyurl.com/2smf55sm](https://tinyurl.com/yvhpdc74))
 10/22/25 | AI Makerspace | **Deep Agents** <br /> ![](https://img.youtube.com/vi/yg9TbPQNqwA/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/yg9TbPQNqwA) | No Code| [💻 Slides](https://tinyurl.com/2smf55sm)
 10/15/25 | AI Makerspace | **Agent Builder** <br /> ![](https://img.youtube.com/vi/PRoXa4-RNaE/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/PRoXa4-RNaE) | No Code| [💻 Slides](https://tinyurl.com/mrfudbzy)
 10/8/25 | AI Makerspace | **Live at MLOps World** <br /> ![](https://img.youtube.com/vi/IUA2Y5Yct-4/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/IUA2Y5Yct-4) | No code | No slides
