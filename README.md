@@ -11,13 +11,14 @@ Access all of the concepts and code from our [YouTube Live](https://www.youtube.
 Find additional content from community build sessions, hackathons, podcasts, and panel discussions directly on our [YouTube playlists](https://www.youtube.com/@AI-Makerspace/playlists)!
 
 Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
-https://www.youtube.com/watch?v=IUA2Y5Yct-4&pp=ygUNYWkgbWFrZXJzcGFjZQ%3D%3D
+
 
 ## AIM Events
 
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+11/12/25 | AI Makerspace | **State of AI Engineering 2025** <br /> ![](https://img.youtube.com/vi/eZBTKxPSsDE/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=eZBTKxPSsDE) |   No Code | [💻 Slides](https://tinyurl.com/2ypx8y9k)
 11/05/25 | AI Makerspace | **How to Build ChatGPT - Part 5: Adding Features** <br /> ![](https://img.youtube.com/vi/EgwIlyIx3Qo/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=EgwIlyIx3Qo) |  [🐙 Code](https://github.com/AI-Maker-Space/How-to-Build-ChatGPT/tree/feat/chatgpt-frontend)| [💻 Slides](https://tinyurl.com/msjkeuju)
 10/29/25 | AI Makerspace | **Claude Agent Skills** <br /> ![](https://img.youtube.com/vi/9XaprFRNTlc/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/9XaprFRNTlc) |  [🐙 Sample skills](https://github.com/anthropics/skills)| [💻 Slides](https://tinyurl.com/yvhpdc74)
 10/22/25 | AI Makerspace | **Deep Agents** <br /> ![](https://img.youtube.com/vi/yg9TbPQNqwA/mqdefault.jpg)  | [🎥 Video](https://youtube.com/live/yg9TbPQNqwA) | No Code| [💻 Slides](https://tinyurl.com/2smf55sm)
