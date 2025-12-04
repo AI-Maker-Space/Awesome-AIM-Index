@@ -18,6 +18,7 @@ Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+12/03/25 | AI Makerspace | **Trinity: A Family of Foundation Models** <br /> ![](https://img.youtube.com/vi/hi8w8K1xeyY/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=hi8w8K1xeyY) |  🐙 No Code | [💻 Slides](https://tinyurl.com/5yd3pff5)
 11/26/25 | AI Makerspace | **Multimodal RAG: An Introduction with olmOCR 2** <br /> ![](https://img.youtube.com/vi/kxGMel-hOas/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=kxGMel-hOas) |  [🐙 Code](https://github.com/AI-Maker-Space/olmOCR-RAG) | [💻 Slides](https://tinyurl.com/mrxp34hm)
 11/19/25 | AI Makerspace | **Agent Engineering with LangChain 1.0** <br /> ![](https://img.youtube.com/vi/lSfAPNJx3xQ/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=lSfAPNJx3xQ) |  [🐙 Code](https://github.com/AI-Maker-Space/LangChain1.0) | [💻 Slides](https://tinyurl.com/4wed3dzj)
 11/12/25 | AI Makerspace | **State of AI Engineering 2025** <br /> ![](https://img.youtube.com/vi/eZBTKxPSsDE/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=eZBTKxPSsDE) |   No Code | [💻 Slides](https://tinyurl.com/2ypx8y9k)
