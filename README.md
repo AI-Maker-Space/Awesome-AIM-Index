@@ -12,12 +12,12 @@ Find additional content from community build sessions, hackathons, podcasts, and
 
 Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
-
 ## AIM Events
 
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
 | :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+12/17/25 | AI Makerspace | **Prompt Optimization with DSPy** <br /> ![](https://img.youtube.com/vi/x8qo_0SCxz0/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=x8qo_0SCxz0) |  🐙 No Code | [💻 Slides](https://tinyurl.com/yc2nvrdc)
 12/10/25 | AI Makerspace | **LangSmith Agent Builder** <br /> ![](https://img.youtube.com/vi/Tj_8dKbtdKU/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=Tj_8dKbtdKU) |  🐙 No Code | [💻 Slides](https://tinyurl.com/55cyct8p)
 12/03/25 | AI Makerspace | **Trinity: A Family of Foundation Models** <br /> ![](https://img.youtube.com/vi/hi8w8K1xeyY/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=hi8w8K1xeyY) |  🐙 No Code | [💻 Slides](https://tinyurl.com/5yd3pff5)
 11/26/25 | AI Makerspace | **Multimodal RAG: An Introduction with olmOCR 2** <br /> ![](https://img.youtube.com/vi/kxGMel-hOas/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=kxGMel-hOas) |  [🐙 Code](https://github.com/AI-Maker-Space/olmOCR-RAG) | [💻 Slides](https://tinyurl.com/mrxp34hm)
