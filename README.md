@@ -12,9 +12,6 @@ Find additional content from community build sessions, hackathons, podcasts, and
 
 Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
-https://tinyurl.com/mrycbn3w
-https://youtu.be/MYzuyEtKto4
-
 ## AIM Events
 
 
