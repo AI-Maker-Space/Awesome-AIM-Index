@@ -12,11 +12,15 @@ Find additional content from community build sessions, hackathons, podcasts, and
 
 Register for upcoming events directly on [lu.ma](https://lu.ma/aimakerspace).
 
+https://tinyurl.com/mrycbn3w
+https://youtu.be/MYzuyEtKto4
+
 ## AIM Events
 
 
 | Date | Page | Event | Video Link | Code |  Slides                                                                                         
-| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :-------- 
+| :-------- | :-------- | :-------- | :------------------------------------------------------------------------------------------------ | :-------- | :--------
+01/07/26 | AI Makerspace | **Agent Memory** <br /> ![](https://img.youtube.com/vi/MYzuyEtKto4/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=MYzuyEtKto4) |  [🐙 Code](https://github.com/AI-Maker-Space/LangChainMemoryEvent) | [💻 Slides](https://tinyurl.com/mrycbn3w)
 12/17/25 | AI Makerspace | **Prompt Optimization with DSPy** <br /> ![](https://img.youtube.com/vi/x8qo_0SCxz0/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=x8qo_0SCxz0) |  [🐙 Code](https://github.com/AI-Maker-Space/DSPyEvent) | [💻 Slides](https://tinyurl.com/yc2nvrdc)
 12/10/25 | AI Makerspace | **LangSmith Agent Builder** <br /> ![](https://img.youtube.com/vi/Tj_8dKbtdKU/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=Tj_8dKbtdKU) |  🐙 No Code | [💻 Slides](https://tinyurl.com/55cyct8p)
 12/03/25 | AI Makerspace | **Trinity: A Family of Foundation Models** <br /> ![](https://img.youtube.com/vi/hi8w8K1xeyY/mqdefault.jpg)  | [🎥 Video](https://www.youtube.com/watch?v=hi8w8K1xeyY) |  🐙 No Code | [💻 Slides](https://tinyurl.com/5yd3pff5)
